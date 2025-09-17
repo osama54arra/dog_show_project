@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+# PROGRAMMER: [Osama Abuarra]
+# DATE CREATED: [ Sep 17th 2025]
+# REVISED DATE: 
+# PURPOSE: Project - Image Classification for City Dog Show
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/check_images.py
 #

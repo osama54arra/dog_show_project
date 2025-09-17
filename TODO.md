@@ -30,7 +30,7 @@
 - Fix function calls to pass correct arguments (in_arg.dir, in_arg.arch, in_arg.dogfile)
 - Ensure timing is implemented
 
-## Step 8: Test the program
+## Step 8: Test the program ✅
 - Run with default arguments
 - Run with custom arguments
 - Verify output matches rubric
