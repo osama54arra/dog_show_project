@@ -1,2 +1,3 @@
-how to run
+how to run (
 python check_images.py
+)
