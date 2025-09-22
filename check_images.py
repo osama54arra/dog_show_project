@@ -77,6 +77,7 @@ def main():
     # function call with in_arg.arch  Once you have done the replacements your
     # function call should look like this:
     #             classify_images(in_arg.dir, results, in_arg.arch)
+                  #model_label = classifier(os.path.join(images_dir, key), model)
     # Creates Classifier Labels with classifier function, Compares Labels,
     # and adds these results to the results dictionary - results
     classify_images(in_arg.dir, results, in_arg.arch)
